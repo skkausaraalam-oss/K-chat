@@ -1,0 +1,17 @@
+{
+  "short_name": "K-Chat",
+  "name": "Kausar Private Hub",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/124/124034.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#111b21",
+  "theme_color": "#202c33",
+  "display": "standalone",
+  "orientation": "portrait"
+}
